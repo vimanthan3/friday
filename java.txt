@@ -21,3 +21,5 @@ else
 System.out.print("The given number is not a tech number.");  
 }  
 }  
+
+ROWTHO
